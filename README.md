@@ -4,7 +4,7 @@
 
 ### Building practical tools in cybersecurity, AI, engineering, and design.
 
-[Website](#) • [GitHub](https://github.com/project-hellhound) • [Founder](https://github.com/l4zz3rj0d)
+[Website](#) • [GitHub](https://project-hellhound.github.io) • [Founder](https://github.com/l4zz3rj0d)
 
 </div>
 
@@ -75,7 +75,7 @@ An OSINT platform for automated target intelligence gathering.
 
 ---
 
-### Alone Spider
+### Hellhound Spider
 An intelligent web crawler built for deep endpoint discovery.
 
 **Features**
@@ -106,7 +106,7 @@ Just clean systems that work.
 Cybersecurity builder focused on offensive security, AI systems, and product engineering.
 
 - GitHub: https://github.com/l4zz3rj0d
-- LinkedIn: https://www.linkedin.com/in/l4zz3rj0d
+- LinkedIn: https://www.linkedin.com/in/ssreedanush
 
 ---
 
@@ -120,11 +120,3 @@ We’re open to:
 - Technical collaborations
 
 If you're building something meaningful, we'd love to connect.
-
----
-
-## Get Involved
-
-```bash
-# Clone the org repos
-git clone https://github.com/project-hellhound/<repo-name>.git
