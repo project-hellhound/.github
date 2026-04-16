@@ -1,122 +1,85 @@
-<div align="center">
-
 # Project-Hellhound
 
-### Building practical tools in cybersecurity, AI, engineering, and design.
+**Unleashing relentless innovation at the intersection of Cybersecurity, Artificial Intelligence, and Mechanical Design.**
 
-[Website](#) • [GitHub](https://project-hellhound.github.io) • [Founder](https://github.com/l4zz3rj0d)
+![Project-Hellhound Logo](https://github.com/Project-Hellhound/.github/blob/main/profile/logo-white-hellhound.png)  
+*(Replace with your actual black & white logo path once uploaded)*
 
-</div>
+## About Project-Hellhound
 
----
+Project-Hellhound is an independent research and development initiative focused on building **cutting-edge, high-performance tools** and frameworks in the domains of:
 
-## About
+- **Offensive Cybersecurity** (Web App Pentesting, Reconnaissance, Vulnerability Research)
+- **Artificial Intelligence** (AI-assisted security tooling, OSINT automation, LLM integration)
+- **Advanced Web Technologies**
+- **Mechanical & Hardware Design** (CAD modeling, IoT security tooling, and physical prototyping — in active exploration)
 
-Project-Hellhound is an open-source startup focused on building practical products that solve real problems.
+We take inspiration from the mythical Hellhound — a fierce, loyal, and unstoppable guardian — to create tools that relentlessly hunt down vulnerabilities, correlate intelligence, and push the boundaries of automation.
 
-What started as a passion for offensive security and hands-on engineering is now evolving into a broader ecosystem of tools across:
+Our philosophy: **Build once. Hunt everywhere.**
 
-- Cybersecurity
-- AI & Automation
-- OSINT & Recon
-- Engineering Systems
-- Product Design
+## Current Arsenal
 
-Our goal is simple:  
-Build technology that is useful, reliable, and built for real-world use.
+We are actively developing and maintaining the following tools (previously under personal repositories, now migrating to the organization):
 
----
+### 1. Hellhound Pentest Framework
+High-performance modular web offensive security framework with **Zero-Config AI Intelligence**.  
+Features intelligent attack-chain correlation, SPA-aware reconnaissance, over 30 specialized modules, built-in OOB server for blind vulnerability detection, and seamless integration with Gemini/OpenAI/Anthropic for automated verification and exploit suggestions.
 
-## What We Build
+**Tech:** Python, aiohttp, Playwright, Modular Architecture
 
-### Cybersecurity
-- Autonomous penetration testing frameworks
-- Vulnerability detection systems
-- Reconnaissance automation
-- Security research tools
+### 2. Hellhound Spider
+Asynchronous, dual-engine web crawler designed for security testing.  
+Excels at mapping endpoints and parameters in both traditional and modern Single Page Applications (SPA) using headless browser interception. Includes intelligent tagging for injection candidates, backup file detection, and export to Burp Suite format.
 
-### AI & Automation
-- AI-assisted workflows
-- Task automation systems
-- Intelligent data pipelines
+**Tech:** Python, aiohttp, Playwright, BeautifulSoup
 
-### OSINT & Recon
-- Target intelligence gathering tools
-- Web crawling and endpoint discovery
-- Data enrichment systems
+### 3. JOE-GOLDBERG
+Autonomous OSINT investigator powered by local-first design.  
+Gathers intelligence across 300+ platforms, performs DNS/WHOIS/subdomain lookups, breach checks, and narrates findings in a unique immersive style using Gemini (with local LLM fallback). Includes persistent case management and detailed HTML reports.
 
-### Engineering & Design
-- Embedded and hardware projects
-- CAD / product design
-- UI / UX systems
+**Tech:** Python, Sherlock/Maigret integration, Gemini 2.5 Flash
 
----
+### Upcoming / In Research
+- **XSSentry** — Advanced XSS detection and exploitation research toolkit (focused on modern bypasses, DOM-based, and blind scenarios)
+- AI-driven autonomous pentesting agents
+- Mechanical design tools integrated with cybersecurity (CAD for custom hardware implants, IoT pentest rigs, etc.)
+- Hybrid cyber-physical tooling
 
-## Flagship Projects
+## Vision & Roadmap
 
-### Hellhound Pentest
-A modular penetration testing framework designed for real-world web application assessments.
+We are evolving Project-Hellhound into a full-spectrum innovation lab where:
+- Cybersecurity tools become more autonomous and intelligent
+- AI augments every stage of security research
+- Mechanical/CAD components enable real-world hardware security prototypes
 
-**Features**
-- Smart crawling and endpoint discovery
-- SQLi / NoSQLi / CMDi testing
-- Broken access control detection
-- SPA-aware recon workflows
-
----
-
-### Joe Goldberg
-An OSINT platform for automated target intelligence gathering.
-
-**Focus**
-- Social footprint mapping
-- Metadata collection
-- Multi-source correlation
-
----
-
-### Hellhound Spider
-An intelligent web crawler built for deep endpoint discovery.
-
-**Features**
-- JavaScript endpoint extraction
-- SPA support
-- Parameter discovery
-- Recursive crawling
-
----
-
-## Philosophy
-
-We believe in:
-- Building in public
-- Open-source collaboration
-- Practical engineering
-- Tools that solve actual problems
-
-No unnecessary complexity.  
-No hype-driven products.  
-Just clean systems that work.
-
----
+Future focus areas include:
+- Multi-agent autonomous pentesting systems
+- AI security (prompt injection, LLM red teaming)
+- Hardware + Firmware security tooling
+- Open-source contributions to the broader security community
 
 ## Founder
 
-**Sree Danush S**  
-Cybersecurity builder focused on offensive security, AI systems, and product engineering.
+**Sree Danush S** (Alias: **L4ZZ3RJ0D**)  
+Offensive Security Engineer & Tool Builder  
+Final-year BE Cybersecurity student | Top 1% on TryHackMe | Active VAPT Intern at CyArt (building CyTrack — multi-agent pentesting platform)
 
-- GitHub: https://github.com/l4zz3rj0d
-- LinkedIn: https://www.linkedin.com/in/ssreedanush
+- **Portfolio:** [l4zz3rj0d.github.io](https://l4zz3rj0d.github.io)
+- **GitHub:** [github.com/l4zz3rj0d](https://github.com/l4zz3rj0d)
+- **LinkedIn:** [linkedin.com/in/ssreedanush](https://linkedin.com/in/ssreedanush)
+
+## Get Involved
+
+- **Star** the repositories you find useful
+- **Watch** for updates as we migrate and expand tools under the organization
+- **Contribute** — We welcome pull requests, module ideas, and research collaboration
+- **Reach out** for research partnerships or tool feedback
+
+> **Disclaimer**: All tools are developed strictly for authorized security assessments, ethical research, bug bounty programs, and educational purposes. Unauthorized use is prohibited.
 
 ---
 
-## Collaborate With Us
+**"In the shadows of complexity, the Hellhound hunts."**
 
-We’re open to:
-- Open-source contributors
-- Security researchers
-- AI builders
-- Designers
-- Technical collaborations
-
-If you're building something meaningful, we'd love to connect.
+Made with 🔥 in Tamil Nadu, India
