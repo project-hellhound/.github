@@ -2,7 +2,7 @@
 
 **Unleashing relentless innovation at the intersection of Cybersecurity, Artificial Intelligence, and Mechanical Design.**
 
-![Project-Hellhound Logo](https://github.com/project-hellhound/.github/blob/main/profile/project-hellhound.png))  
+![Project-Hellhound Logo](https://github.com/project-hellhound/.github/blob/main/profile/project-hellhound.png)
 *(Replace with your actual black & white logo path once uploaded)*
 
 ## About Project-Hellhound
