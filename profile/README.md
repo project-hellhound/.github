@@ -80,5 +80,3 @@ Final-year BE Cybersecurity student | Top 1% on TryHackMe | Active VAPT Intern a
 ---
 
 **"In the shadows of complexity, the Hellhound hunts."**
-
-Made with 🔥 in Tamil Nadu, India
