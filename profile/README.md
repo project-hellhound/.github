@@ -29,13 +29,13 @@ Features intelligent attack-chain correlation, SPA-aware reconnaissance, over 30
 
 **Tech:** Python, aiohttp, Playwright, Modular Architecture
 
-### 2. Hellhound Spider
+### 2. [Hellhound Spider](https://github.com/l4zz3rj0d/Hellhound-Spider)
 Asynchronous, dual-engine web crawler designed for security testing.  
 Excels at mapping endpoints and parameters in both traditional and modern Single Page Applications (SPA) using headless browser interception. Includes intelligent tagging for injection candidates, backup file detection, and export to Burp Suite format.
 
 **Tech:** Python, aiohttp, Playwright, BeautifulSoup
 
-### 3. JOE-GOLDBERG
+### 3. [JOE-GOLDBERG](https://github.com/l4zz3rj0d/JOE-GOLDBERG)
 Autonomous OSINT investigator powered by local-first design.  
 Gathers intelligence across 300+ platforms, performs DNS/WHOIS/subdomain lookups, breach checks, and narrates findings in a unique immersive style using Gemini (with local LLM fallback). Includes persistent case management and detailed HTML reports.
 
