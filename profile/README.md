@@ -42,7 +42,7 @@ Gathers intelligence across 300+ platforms, performs DNS/WHOIS/subdomain lookups
 **Tech:** Python, Sherlock/Maigret integration, Gemini 2.5 Flash
 
 ### Upcoming / In Research
-- **XSSentry** — Advanced XSS detection and exploitation research toolkit (focused on modern bypasses, DOM-based, and blind scenarios)
+- [**XSSentry**](https://github.com/project-hellhound/X5Sentry) — Advanced XSS detection and exploitation research toolkit (focused on modern bypasses, DOM-based, and blind scenarios)
 - AI-driven autonomous pentesting agents
 - Mechanical design tools integrated with cybersecurity (CAD for custom hardware implants, IoT pentest rigs, etc.)
 - Hybrid cyber-physical tooling
