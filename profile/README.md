@@ -21,11 +21,11 @@ Our philosophy: **Build once. Hunt everywhere.**
 
 We are actively developing and maintaining the following tools (previously under personal repositories, now migrating to the organization):
 
-### 1. Hellhound Pentest Framework
+### 1. [Hellhound Pentest Framework](https://github.com/l4zz3rj0d/Hellhound-Pentest)
 High-performance modular web offensive security framework with **Zero-Config AI Intelligence**.  
 Features intelligent attack-chain correlation, SPA-aware reconnaissance, over 30 specialized modules, built-in OOB server for blind vulnerability detection, and seamless integration with Gemini/OpenAI/Anthropic for automated verification and exploit suggestions.
 
-[Hellhound-Pentest](https://github.com/l4zz3rj0d/Hellhound-Pentest)
+
 
 **Tech:** Python, aiohttp, Playwright, Modular Architecture
 
