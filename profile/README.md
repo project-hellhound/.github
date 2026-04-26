@@ -59,7 +59,7 @@ Future focus areas include:
 - Hardware + Firmware security tooling
 - Open-source contributions to the broader security community
 
-## Founder
+## Founder of Project-Hellhound
 
 **Sree Danush S** (Alias: **L4ZZ3RJ0D**)  
 Offensive Security Engineer & Tool Builder  
