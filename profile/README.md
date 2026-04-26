@@ -39,19 +39,19 @@ High-fidelity command injection detector that uses a multi-tier verification eng
     <tr>
       <td align="center">
         <a href="https://l4zz3rj0d.github.io">
-          <img src="https://github.com/l4zz3rj0d.png" width="120" style="border-radius: 50%;" alt="Sree Danush S" /><br />
+          <img src="https://github.com/l4zz3rj0d.png" width="120" style="border-radius: 50%;" alt="Sree Danush" /><br />
           <sub><b>Sree Danush S</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/aBadRoy">
-          <img src="https://github.com/aBadRoy.png" width="120" style="border-radius: 50%;" alt="Abadroy" /><br />
+          <img src="https://github.com/aBadRoy.png" width="120" style="border-radius: 50%;" alt="Lilanjan Barman" /><br />
           <sub><b>Abadroy</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://itachi-hacks.github.io/">
-          <img src="https://github.com/Itachi-hacks.png" width="120" style="border-radius: 50%;" alt="Abhay Panday" /><br />
+          <img src="https://github.com/Itachi-hacks.png" width="120" style="border-radius: 50%;" alt="Abhay Pandya" /><br />
           <sub><b>Abhay Panday</b></sub>
         </a>
       </td>
