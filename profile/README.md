@@ -21,27 +21,27 @@ Our philosophy: **Build once. Hunt everywhere.**
 
 We are actively developing and maintaining the following tools (previously under personal repositories, now migrating to the organization):
 
-### 1. [Hellhound Pentest Framework](https://github.com/l4zz3rj0d/Hellhound-Pentest)
+### 1. [Hellhound Pentest Framework](https://github.com/project-hellhound-org/Hellhound-Pentest)
 High-performance modular web offensive security framework with **Zero-Config AI Intelligence**.  
 Features intelligent attack-chain correlation, SPA-aware reconnaissance, over 30 specialized modules, built-in OOB server for blind vulnerability detection, and seamless integration with Gemini/OpenAI/Anthropic for automated verification and exploit suggestions.
 
 
-### 2. [Hellhound Spider](https://github.com/l4zz3rj0d/Hellhound-Spider)
+### 2. [Hellhound Spider](https://github.com/project-hellhound-org/Hellhound-Spider)
 Asynchronous, dual-engine web crawler designed for security testing.  
 Excels at mapping endpoints and parameters in both traditional and modern Single Page Applications (SPA) using headless browser interception. Includes intelligent tagging for injection candidates, backup file detection, and export to Burp Suite format.
 
 
-### 3. [JOE-GOLDBERG](https://github.com/l4zz3rj0d/JOE-GOLDBERG)
+### 3. [JOE-GOLDBERG](https://github.com/project-hellhound-org/JOE-GOLDBERG)
 Autonomous OSINT investigator powered by local-first design.  
 Gathers intelligence across 300+ platforms, performs DNS/WHOIS/subdomain lookups, breach checks, and narrates findings in a unique immersive style using Gemini (with local LLM fallback). Includes persistent case management and detailed HTML reports.
 
-### 4. [CMDmap](https://github.com/project-hellhound/cmdmap)
+### 4. [CMDmap](https://github.com/project-hellhound-org/cmdmap)
 CMDmap (internally known as CMDINJ) is a high-fidelity, autonomous command injection detector designed for the modern web. Unlike traditional scanners, CMDmap uses a multi-tier verification engine to eliminate false positives and bypass sophisticated filters.
 
 It transitions from simple reflection tests to complex timing-based attacks and Out-of-Band (OOB) interactions, culminating in a verified Proof-of-Concept (PoC).
 
 ### Upcoming / In Research
-- [**XSSentry**](https://github.com/project-hellhound/X5Sentry) — Advanced XSS detection and exploitation research toolkit (focused on modern bypasses, DOM-based, and blind scenarios)
+- [**XSSentry**](https://github.com/project-hellhound-org/X5Sentry) — Advanced XSS detection and exploitation research toolkit (focused on modern bypasses, DOM-based, and blind scenarios)
 - AI-driven autonomous pentesting agents
 - Mechanical design tools integrated with cybersecurity (CAD for custom hardware implants, IoT pentest rigs, etc.)
 - Hybrid cyber-physical tooling
