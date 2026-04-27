@@ -40,7 +40,7 @@ High-fidelity command injection detector that uses a multi-tier verification eng
       <td align="center">
         <a href="https://l4zz3rj0d.github.io">
           <img src="https://github.com/l4zz3rj0d.png" width="120" style="border-radius: 50%;" alt="Sree Danush" /><br />
-          <sub><b>Sree Danush S</b></sub>
+          <sub><b>Sree Danush</b></sub>
         </a>
       </td>
       <td align="center">
