@@ -52,7 +52,7 @@ High-fidelity command injection detector that uses a multi-tier verification eng
       <td align="center">
         <a href="https://itachi-hacks.github.io/">
           <img src="https://github.com/Itachi-hacks.png" width="120" style="border-radius: 50%;" alt="Abhay Pandya" /><br />
-          <sub><b>Abhay Panday</b></sub>
+          <sub><b>Abhay Pandya</b></sub>
         </a>
       </td>
     </tr>
