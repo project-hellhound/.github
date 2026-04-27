@@ -46,7 +46,7 @@ High-fidelity command injection detector that uses a multi-tier verification eng
       <td align="center">
         <a href="https://github.com/aBadRoy">
           <img src="https://github.com/aBadRoy.png" width="120" style="border-radius: 50%;" alt="Lilanjan Barman" /><br />
-          <sub><b>Abadroy</b></sub>
+          <sub><b>Lilanjan Barman</b></sub>
         </a>
       </td>
       <td align="center">
