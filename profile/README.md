@@ -32,33 +32,6 @@ Autonomous OSINT investigator designed for SOC and Red Teaming operations. Gathe
 ### 4. [CMDmap](https://github.com/project-hellhound-org/cmdmap)
 High-fidelity command injection detector that uses a multi-tier verification engine to eliminate false positives and bypass sophisticated filters.
 
-## Founders
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://l4zz3rj0d.github.io">
-          <img src="https://github.com/l4zz3rj0d.png" width="120" style="border-radius: 50%;" alt="Sree Danush" /><br />
-          <sub><b>Sree Danush</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/aBadRoy">
-          <img src="https://github.com/aBadRoy.png" width="120" style="border-radius: 50%;" alt="Lilanjan Barman" /><br />
-          <sub><b>Lilanjan Barman</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://itachi-hacks.github.io/">
-          <img src="https://github.com/Itachi-hacks.png" width="120" style="border-radius: 50%;" alt="Abhay Pandya" /><br />
-          <sub><b>Abhay Pandya</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## Get Involved
 
 - **Star** the repositories you find useful.
