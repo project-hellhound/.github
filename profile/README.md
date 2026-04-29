@@ -18,20 +18,6 @@ We take inspiration from the mythical Hellhound — a fierce and unstoppable gua
 
 Our philosophy: **Build once. Hunt everywhere.**
 
-## Current Arsenal
-
-### 1. [Hellhound Pentest Framework](https://github.com/project-hellhound-org/Hellhound-Pentest)
-A professional modular web offensive security framework built for VAPT and Red Teaming. Features high-fidelity attack-chain correlation, SPA-aware reconnaissance, and over 30 specialized modules for deep security auditing.
-
-### 2. [Hellhound Spider](https://github.com/project-hellhound-org/Hellhound-Spider)
-Asynchronous, dual-engine web crawler designed for high-speed reconnaissance. Excels at mapping endpoints and parameters in complex Single Page Applications (SPA).
-
-### 3. [JOE-GOLDBERG](https://github.com/project-hellhound-org/JOE-GOLDBERG)
-Autonomous OSINT investigator designed for SOC and Red Teaming operations. Gathers intelligence across 300+ platforms, performs deep DNS/WHOIS/Breach analysis, and correlates data for comprehensive target profiling.
-
-### 4. [CMDmap](https://github.com/project-hellhound-org/cmdmap)
-High-fidelity command injection detector that uses a multi-tier verification engine to eliminate false positives and bypass sophisticated filters.
-
 ## Get Involved
 
 - **Star** the repositories you find useful.
